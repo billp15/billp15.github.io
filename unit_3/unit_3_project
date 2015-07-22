@@ -1,0 +1,30 @@
+<!DOCTYPE html>  
+
+<html>	
+<head>
+ <title>smooth</title>
+ <link rel="stylesheet" type="text/css" href="main.css">
+
+</head>
+<body>
+ <h1>smooth<h1>
+<p> [slogan] greens for your good health...</p>
+
+<p>description of my restautrant</p>
+
+<p>
+ <ul>
+  <li>Lorem</li> 
+  <li>ipsum</li> 
+  <li>dolor</li>
+  <li>sit amet</li>
+  <li>consectetur</li>
+ <ul/>
+<img src="http://i.imgur.com/FfebBXn.jpg">
+
+<p><a href="mail to:wep65@yahoo.com">More info.<a/></p>
+
+
+</body>
+
+</html>
