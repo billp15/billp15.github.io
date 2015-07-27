@@ -1,13 +1,16 @@
-body
+
 
 h1 {text-align: center;
 }
-h1 {font-family: Arial, sans-serif;
-}
-h1 {font-weight: 800;
-}
+
+body
+ text-align: center;
+ background: url(http://i.imgur.com/FfebBXn.jpg)
+ background-size: cover;
+ font-family: Helvetica;
+
 p {font-style: italic;
 }
 
-#slogan
+
 
