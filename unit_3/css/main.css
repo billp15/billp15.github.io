@@ -1,13 +1,13 @@
-
-
-h1 {text-align: center;
+h1 {
+  text-align: center;
 }
 
-body
+body {
  text-align: center;
  background: url(http://i.imgur.com/FfebBXn.jpg)
  background-size: cover;
  font-family: Helvetica;
+ font-size: 22px;
 
 p {font-style: italic;
 }
