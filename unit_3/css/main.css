@@ -1,28 +1,24 @@
 h1 {
-  text-align: center
+  text-align: center;
 }
 
 
 body
-#slogan {font-style: 
-}
-
- {text-align: center
-}
+{text-align: center;
 }
  {background: url()
  }
- {font-family: Helvetica
+ {font-family: Helvetica;
  }
- {font-size: 22px}
- {
- 	background-color: paleturquoise
+ {font-size: 22px;
+ }
+ {background-color: paleturquoise;
  }
 
  
 
  ul {
- 	font-style: italic
+ 	font-style: italic;
  }
  ul {
  	list-style-type: none;
