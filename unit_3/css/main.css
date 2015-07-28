@@ -14,6 +14,9 @@ body {
  ul {
  	font-style: italic
  }
+ ul {
+ 	list-style-type: none;
+ }
 
 
 
