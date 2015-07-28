@@ -3,10 +3,7 @@ h1 {
 }
 
 
-body 
-{
-	background-color: paleturquoise
-}
+body
 {
  text-align: center
 }
@@ -15,6 +12,9 @@ body
  {font-family: Helvetica
  }
  {font-size: 22px}
+ {
+ 	background-color: paleturquoise
+ }
 
  
 
