@@ -1,7 +1,13 @@
 h1 {
   font-size: 52px;
   text-align: center;
+  text-decoration: bold;
 
+}
+
+#slogan {
+	font-size: 40px;
+	text-align: center;
 }
 
 
@@ -13,10 +19,6 @@ font-style: Helvetica;
 font-size: 22px;
 background-color: paleturquoise;
  }
-
-hr {
-	width: 250px
-} 
 
  ul {
  	font-style: italic;
