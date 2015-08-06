@@ -14,10 +14,13 @@ h1 {
 body
 {
 	text-align: center;
-/*background: url();*/
-font-family: Helvetica;
-font-size: 22px;
-background-color: paleturquoise;
+	/*background: url();*/
+	font-family: Helvetica;
+	font-size: 22px;
+	background-color: paleturquoise;
+ }
+ hr {
+ß	width: 300px;
  }
 
  ul {
