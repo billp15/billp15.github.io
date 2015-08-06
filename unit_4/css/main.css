@@ -14,7 +14,10 @@ font-size: 22px;
 background-color: paleturquoise;
  }
 
- 
+hr {
+	width: 250px
+	color: #fff;
+} 
 
  ul {
  	font-style: italic;
