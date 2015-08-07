@@ -21,6 +21,8 @@ body
  }
  hr {
 	width: 200px;
+	font-weight: bold;
+	color: black;
  }
 
  ul {
