@@ -19,11 +19,6 @@ body
 	font-size: 22px;
 	background-color: paleturquoise;
  }
- hr {
-	width: 200px;
-	font-weight: bold;
- }
-
  ul {
  	font-style: italic;
  }
