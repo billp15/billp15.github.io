@@ -1,11 +1,13 @@
-@import url(http://fonts.googleapis.com/css?family=Roboto:900h);
+@import url(https://fonts.googleapis.com/css?family=Roboto:900h);
 
 h1 {
   font-size: 52px;
+  font-family: 'Roboto';
   font-style: bold;
   text-align: center;
 }
 #slogan {
+	font-family: 'Roboto';
 	font-size: 40px;
 }
 
@@ -13,6 +15,7 @@ body
 {
 	text-align: center;
 	/*background: url();*/
+	font-family: 'Roboto';
 	font-size: 24px;
 	background-color: aqua;
  }
@@ -22,9 +25,11 @@ hr {
  
 
  ul {
+ 	font-family: 'Roboto';
  	font-style: italic;
  }
  ul {
+ 	font-family: 'Roboto';
  	list-style-type: none;
  }
 
