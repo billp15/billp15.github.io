@@ -20,7 +20,7 @@ body
 	background-color: paleturquoise;
  }
  hr {
- 	color: 103 12 232;
+ 	color: rgb(103,12,232);
  }
  ul {
  	font-style: italic;
