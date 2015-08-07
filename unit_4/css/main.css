@@ -17,9 +17,10 @@ body
 	/*background: url();*/
 	font-family: Helvetica;
 	font-size: 22px;
-	background-color: paleturquoise;
+	background-color: aquamarine;
  }
  hr {
+ 	width: 250px;
  	color: rgb(103,12,232);
  }
  ul {
