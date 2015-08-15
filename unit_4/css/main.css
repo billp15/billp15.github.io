@@ -25,12 +25,14 @@ body
  	text-align: center;
  }
  
-
  ul {
+ 	font-family: helvetica;
  	font-style: italic;
  	list-style-type: none;
  	text-align: center;
  }
+
+
 
 
 
