@@ -7,12 +7,10 @@ h1 {
   text-align: center;
 }
 #slogan {
-	font-family: helvetica;
 	font-size: 40px;
 }
 
-body
-{
+body {
 	text-align: center;
 	/*background: url();*/
 	font-family: 'Roboto';
