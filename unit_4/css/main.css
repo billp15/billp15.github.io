@@ -31,7 +31,10 @@ body {
  	text-align: center;
  }
  hr{
+ 	border: none;
+ 	height: 1px;
  	color: black;
+ 	background-color: black;
  }
 
 
