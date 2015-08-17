@@ -19,23 +19,21 @@ body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 24px;
 	background-color: aqua;
- }
-<div> 
+ } 
 #menu {
  	font-family: courier;
  	font-size: 22px;
  	text-align: center;
  }
- </div>
+
  
- <div>
  ul {
  	font-family: courier;
  	font-style: italic;
  	list-style: none;
  	text-align: center;
  }
- </div>
+ 
  hr{
  	border: none;
  	height: 2px;
