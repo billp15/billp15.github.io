@@ -29,6 +29,7 @@ body {
  
  ul {
  	font-family: courier;
+ 	font-size: 22px;
  	font-style: italic;
  	list-style: none;
  	text-align: center;
