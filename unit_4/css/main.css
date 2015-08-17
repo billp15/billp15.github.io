@@ -5,16 +5,17 @@ h1 {
   font-family: 'Roboto';
   font-style: bold;
   text-align: center;
+  font-weight: 700;
 }
 #slogan {
 	font-family: 'Roboto', sans-serif;
-	font-size: 700;
+	font-size: 400;
 }
 
 body {
 	text-align: center;
 	/*background: url();*/
-	font-family: 'Roboto';
+	font-family: 'Roboto', sans-serif;
 	font-size: 24px;
 	background-color: aqua;
  }
