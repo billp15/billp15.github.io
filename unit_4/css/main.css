@@ -31,7 +31,7 @@ body {
  ul {
  	font-family: courier;
  	font-style: italic;
- 	list-style-type: none;
+ 	list-style: none;
  	text-align: center;
  }
  hr{
