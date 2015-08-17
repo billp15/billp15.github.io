@@ -28,12 +28,14 @@ body {
  }
  </div>
  
+ <div>
  ul {
  	font-family: courier;
  	font-style: italic;
  	list-style: none;
  	text-align: center;
  }
+ </div>
  hr{
  	border: none;
  	height: 2px;
