@@ -1,15 +1,16 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,700);
 
 h1 {
-  /*font-size: 52px;*/
+  font-size: 52px;
   font-family: 'Roboto';
-  font-style: bold;
   text-align: center;
   font-weight: 700;
 }
 #slogan {
 	font-family: 'Roboto', sans-serif;
-	font-size: 400;
+	font-size: 24px;
+	font-weight: 400;
+	text-align: center;
 }
 
 body {
@@ -21,7 +22,7 @@ body {
  }
  #menu {
  	font-family: courier;
- 	font-size: 32px;
+ 	font-size: 22px;
  	text-align: center;
  }
  
